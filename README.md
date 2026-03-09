@@ -386,7 +386,6 @@ may be subject to additional terms for academic collaboration.
 For questions, collaboration inquiries, or full code access requests:
 
 - **GitHub**: [AmaanSyed110](https://github.com/AmaanSyed110)
-- **Issues**: [GitHub Issues](https://github.com/AmaanSyed110/A-Real-Time-Semantic-Recommendation-System/issues)
 
 ---
 

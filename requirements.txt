@@ -1,0 +1,10 @@
+streamlit
+pandas
+feedparser
+tqdm
+requests
+arxiv
+scikit-learn
+sentence-transformers
+faiss-cpu
+numpy

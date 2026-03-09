@@ -376,24 +376,8 @@ separate coordination with the authors.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-**Note**: The demo version is provided under MIT License. Full implementation access 
+**Note**: The demo version is provided under MIT License. Full implementation access
 may be subject to additional terms for academic collaboration.
-
----
-
-## Citation
-
-If you use this system in your research, please cite:
-
-```bibtex
-@software{arxiv_recommendation_system,
-  author = {Amaan Syed},
-  title = {A Real-Time Semantic Recommendation System},
-  year = {2025},
-  url = {https://github.com/AmaanSyed110/A-Real-Time-Semantic-Recommendation-System},
-  note = {Demo version. Full implementation available upon request.}
-}
-```
 
 ---
 
